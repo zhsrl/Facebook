@@ -1,0 +1,168 @@
+body{
+  position: static;
+  margin: 0;
+  font-family: 'Arial',sans-serif;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+header{
+  background-color: rgb(33, 74, 145);
+  height: 90px;
+  margin:0 auto;
+}
+
+.fbook-logo{
+  position: relative;
+  height: 40px;
+  width: 200px;
+  filter: invert(100%);
+  left:125px;
+  top: 20px;
+}
+
+.em-num-auth{
+  position: relative;
+  left:455px;
+  top:10px;
+}
+
+#email-or-number{
+  position: relative;
+  top:-40px;
+  left:658px;
+  font-size: 12px;
+  color: #fff;
+}
+
+.pwd-auth{
+  position:relative;
+  left: 900px;
+  top:-49px;
+
+}
+
+#password{
+  position: relative;
+  top:-99px;
+  left:900px;
+  font-size: 12px;
+  color:#fff;
+}
+
+.btn-sign-in{
+  position: relative;
+  left: 1085px;
+  bottom: 108px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-radius: 2px;
+  border: solid 1px transparent;
+  background-color: #3574bd;
+  color: #fff;
+
+}
+
+#forgot-acc{
+  position: relative;
+  text-decoration: none;
+  font-size: 12px;
+  color:#7d9ec9;
+  left:852px;
+  bottom: 80px;
+}
+
+section{
+  width:1000px;
+  margin: 0 auto;
+}
+
+#text{
+  position: relative;
+  font-size: 20px;
+  top: 50px;
+  color: #071d59;
+}
+
+#textcont{
+  position: relative;
+  font-size: 20px;
+  top:80px;
+  right:456px;
+  color:#071d59;
+}
+
+.world{
+  position: relative;
+  height: 200px;
+  width: 570px;
+  top:90px;
+}
+
+#reg{
+  position: relative;
+  font-size: 40px;
+  left: 580px;
+  bottom:240px;
+}
+
+#txt-over-reg{
+  position: relative;
+  font-size:20px;
+  left:580px;
+  bottom:260px;
+}
+
+.name{
+  position: relative;
+  width: 190px;
+  font-size: 21px;
+  border:1px solid rgb(218, 220, 230);
+  border-radius: 5px;
+  padding: 6px;
+  left:580px;
+  bottom:250px;
+  color: #c7c7c9;
+}
+
+.sname{
+  position: relative;
+  width: 190px;
+  font-size: 21px;
+  border: 1px solid rgb(218,220,230);
+  border-radius: 5px;
+  padding: 6px;
+  left:590px;
+  bottom: 250px;
+  color: #c7c7c9;
+}
+
+.num-or-email{
+  position: relative;
+  width: 408px;
+  font-size: 21px;
+  border: 1px solid rgb(218,220,230);
+  border-radius: 5px;
+  padding: 6px;
+  left:164px;
+  bottom:200px;
+  color: #c7c7c9;
+}
+
+.new-pwd{
+  position: relative;
+  width: 408px;
+  font-size: 21px;
+  border: 1px solid rgb(218,220,230);
+  border-radius: 5px;
+  padding: 6px;
+  left:580px;
+  bottom: 187px;
+  color: #c7c7c9;
+}
+
+#birthday{
+  position: relative;
+  font-size: 17px;
+  left:156px;
+  bottom: 140px;
+  color: #b3b3b5;
+}
