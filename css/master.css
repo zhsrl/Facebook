@@ -166,3 +166,18 @@ section{
   bottom: 140px;
   color: #b3b3b5;
 }
+
+.date{
+  position: relative;
+  font-size:12px;
+  left:-10px;
+  bottom:100px;
+}
+
+#gender{
+  position: relative;
+  font-size: 17px;
+  left:25px;
+  bottom:60px;
+  color: #b3b3b5;
+}
