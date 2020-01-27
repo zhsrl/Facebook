@@ -268,6 +268,64 @@ section{
 
 footer{
   background-color: #fff;
-  height:150px;
+  height:0px;
   margin:0 auto;
+}
+
+.lang{
+  position: relative;
+  text-decoration: none;
+  word-spacing: 12px;
+  font-size: 12px;
+  top:10px;
+  left: 120px;
+}
+
+#btn-plus{
+  font-size: 22px;
+  color: #8c8b8b;
+  padding: 0 10px 0 10px;
+  font-weight: bold;
+}
+
+.line{
+  position: relative;
+  color: #8c8b8b;
+  margin: 0 auto;
+  text-align: center;
+  weight: 100px;
+  height: 200px;
+}
+
+.fst-col{
+  position: relative;
+  text-decoration: none;
+  word-spacing: 12px;
+  font-size: 12px;
+  left: 120px;
+  bottom: 170px;
+}
+
+.scs-col{
+  position: relative;
+  text-decoration: none;
+  word-spacing: 12px;
+  font-size: 12px;
+  left: 120px;
+  bottom: 160px;
+}
+
+.thrd-col{
+  position: relative;
+  text-decoration: none;
+  word-spacing: 12px;
+  font-size: 12px;
+  left: 120px;
+  bottom: 150px;
+}
+
+#footer-text{
+  position: relative;
+  top:20px;
+  color: #8c8b8b;
 }
