@@ -109,6 +109,7 @@ section{
   font-size:20px;
   left:580px;
   bottom:260px;
+
 }
 
 .name{
@@ -180,4 +181,86 @@ section{
   left:25px;
   bottom:60px;
   color: #b3b3b5;
+}
+
+.genders{
+  position: relative;
+  text-align: center;
+  left: 245px;
+  bottom: 55px;
+}
+
+#gender-check-male{
+  width: 15px;
+  height: 15px;
+  margin-right: 110px;
+}
+
+#gender-check-female{
+  width: 15px;
+  height: 15px;
+  margin-right: 130px;
+}
+
+#gender-check-other{
+  width: 15px;
+  height: 15px;
+}
+
+
+#male{
+  position: relative;
+  text-align: center;
+  font-size: 18px;
+  left:155px;
+  bottom: 95px;
+}
+
+#female{
+  position: relative;
+  text-align: center;
+  font-size: 18px;
+  left: 290px;
+  bottom: 133px;
+}
+
+#other{
+  position: relative;
+  text-align: center;
+  font-size: 18px;
+  left:430px;
+  bottom: 173px;
+}
+
+#over-text{
+  position: relative;
+  font-size: 11px;
+  width: 320px;
+  left: 585px;
+  bottom: 170px;
+  color: rgb(148, 148, 146);
+}
+
+.reg-button{
+  position: relative;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  height: 35px;
+  width: 200px;
+  right: -580px;
+  bottom: 160px;
+  background: rgb(73, 130, 56);
+  border: 1px solid rgb(55, 99, 42);
+  border-radius: 5px;
+}
+
+#down-text{
+  position: relative;
+  font-weight: bold;
+  font-size: 14px;
+  width: 420px;
+  left:580px;
+  bottom: 130px;
+  color: #949494;
 }
