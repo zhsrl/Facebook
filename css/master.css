@@ -2,6 +2,7 @@ body{
   position: static;
   margin: 0;
   font-family: 'Arial',sans-serif;
+  background: linear-gradient(#ffffff,#c8d3e2);
   overflow: hidden;
   overflow-y: scroll;
 }
@@ -262,5 +263,11 @@ section{
   width: 420px;
   left:580px;
   bottom: 130px;
-  color: #949494;
+  color: #949494  ;
+}
+
+footer{
+  background-color: #fff;
+  height:150px;
+  margin:0 auto;
 }
