@@ -187,25 +187,26 @@ section{
 .genders{
   position: relative;
   text-align: center;
-  left: 245px;
+  left: 220px;
   bottom: 55px;
 }
 
 #gender-check-male{
   width: 15px;
   height: 15px;
-  margin-right: 110px;
+  margin-left: 20px;
 }
 
 #gender-check-female{
   width: 15px;
   height: 15px;
-  margin-right: 130px;
+  margin-left: 20px;
 }
 
 #gender-check-other{
   width: 15px;
   height: 15px;
+  margin-left: 20px;
 }
 
 
@@ -238,8 +239,12 @@ section{
   font-size: 11px;
   width: 320px;
   left: 585px;
-  bottom: 170px;
+  bottom: 60px;
   color: rgb(148, 148, 146);
+}
+a{
+  text-decoration: none;
+  color:rgb(72, 97, 157 );
 }
 
 .reg-button{
@@ -250,7 +255,7 @@ section{
   height: 35px;
   width: 200px;
   right: -580px;
-  bottom: 160px;
+  bottom: 55px;
   background: rgb(73, 130, 56);
   border: 1px solid rgb(55, 99, 42);
   border-radius: 5px;
@@ -262,7 +267,7 @@ section{
   font-size: 14px;
   width: 420px;
   left:580px;
-  bottom: 130px;
+  bottom: 40px;
   color: #949494  ;
 }
 
